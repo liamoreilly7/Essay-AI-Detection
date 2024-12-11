@@ -1,4 +1,13 @@
-numpy
-pandas
-scikit-learn
 datasets
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+transformers
+torch
+tensorflow
+setuptools
+tensorflow-text
+tensorflow-hub
